@@ -1,66 +1,63 @@
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Arslan;🎯+AI+Assistant+Programmer;🧠+AI+Developer;⚙️+Bots+Developer)
-  
-  <a href="https://github.com/ArslanTech-dev">
-    <img src="https://img.shields.io/badge/GitHub-ArslanTech%20TECH'S-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  
+
+<img src="banner.jpg" width="100%" style="border-radius:16px; box-shadow: 0 0 40px 10px #a855f7;" alt="Banner"/>
+
+<br/><br/>
+
+<img src="https://github.com/ArslanTech-dev.png" width="150" style="border-radius:50%; border:4px solid #a855f7; box-shadow: 0 0 30px 8px #a855f7;" alt="Arslan"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Arslan;%F0%9F%8E%AF+AI+Assistant+Programmer;%F0%9F%A7%A0+AI+Developer;%E2%9A%99%EF%B8%8F+Bots+Developer" alt="Typing SVG" style="filter: drop-shadow(0 0 8px #a855f7);"/>
+
+<br/>
+
+<a href="https://github.com/ArslanTech-dev">
+  <img src="https://img.shields.io/badge/GitHub-ArslanTech%20TECH'S-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+</a>
+
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
 <div align="center">
-  
-  ```
-  ╔══════════════════════════════════════════════════════╗
-  ║        🚀 ARSLAN TECH'S - AI/ML Developer 🚀         ║
-  ╚══════════════════════════════════════════════════════╝
-  ```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=%F0%9F%9F%A3+ARSLAN+TECH'S+-+AI%2FML+Developer" />
 
 </div>
 
 ### 📍 **Location & Background**
-- 🇵🇰 **Bahawalpur, Pakistan**
-- 🎓 **ICS Student** — Punjab College, Hasilpur
-- 🏆 **Goal:** AI/ML Engineer @ Microsoft / Google
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&duration=2200&pause=600&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%87%B5%F0%9F%87%B0+Bahawalpur%2C+Pakistan;%F0%9F%8E%93+ICS+Student+%E2%80%94+Punjab+College%2C+Hasilpur;%F0%9F%8F%86+Goal%3A+AI%2FML+Engineer+%40+Microsoft+%2F+Google" />
+</div>
 
 ### 💼 **What I Do**
-- 🤖 **AI Assistant Development** - Building intelligent solutions
-- 🧠 **AI/ML Projects** - Machine learning implementations
-- ⚙️ **Bot Development** - Discord, Telegram & Automation bots
-- 💻 **Full-Stack Development** - Web & Backend solutions
-- 🔐 **Security & Optimization** - Clean, efficient code
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=18&duration=2200&pause=600&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+AI+Assistant+Development;%F0%9F%A7%A0+AI+Development+%E2%80%94+AI-powered+apps+%26+tools;%E2%9A%99%EF%B8%8F+Bots+Development+%E2%80%94+WhatsApp+automation;%F0%9F%92%BB+Full-Stack+Development" />
+</div>
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 <div align="center">
-  
-  ### Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  
-  ### Frameworks & Libraries
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  
-  ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Frameworks & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
@@ -68,72 +65,52 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArslanTech-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=e0e0e0)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ArslanTech-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=e0e0e0&currStreakLabel=00FF41&sideLabels=e0e0e0&dates=e0e0e0)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanTech-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=e0e0e0)
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArslanTech-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A855F7&icon_color=A855F7&text_color=e0e0e0" style="border-radius:12px; box-shadow: 0 0 20px 4px rgba(168,85,247,0.5);"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArslanTech-dev&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=e0e0e0&currStreakLabel=A855F7&sideLabels=e0e0e0&dates=e0e0e0" style="border-radius:12px; box-shadow: 0 0 20px 4px rgba(168,85,247,0.5);"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanTech-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=e0e0e0" style="border-radius:12px; box-shadow: 0 0 20px 4px rgba(168,85,247,0.5);"/>
+
 </div>
 
 ---
 
 ## 🎯 **Current Focus**
 
-```python
-class ArslanTech:
-    def __init__(self):
-        self.learning = ["Deep Learning", "NLP", "Computer Vision"]
-        self.building = ["AI Chatbots", "ML Models", "Automation Tools"]
-        self.exploring = ["Kubernetes", "Cloud (AWS/GCP)", "LLMs"]
-    
-    def goal(self):
-        return "🎯 Landing at Microsoft / Google as AI/ML Engineer"
-    
-    def mindset(self):
-        return "📈 Always learning, always growing"
-
-dev = ArslanTech()
-```
-
----
-
-## 🔥 **Fun Facts**
-
-- 💡 I love solving complex problems with AI & Machine Learning
-- 🎮 Gaming enthusiast when not coding
-- 📚 Constantly reading about new tech trends
-- 🚀 Building projects that make an impact
-- 🌙 Night owl developer (best ideas come at midnight 🌌)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=600&color=A855F7&center=true&vCenter=true&width=700&lines=class+ArslanTech%3A;++++roles+%3D+%5B%22AI+Assistant+Programmer%22%2C+%22AI+Developer%22%2C+%22Bots+Developer%22%5D;++++building+%3D+%5B%22WhatsApp+Bots%22%2C+%22AI+Chat+Apps%22%5D;++++learning+%3D+%5B%22Machine+Learning%22%2C+%22AI+Engineering%22%5D;++++goal+%3D+%22Microsoft+%2F+Google+as+AI%2FML+Engineer%22+%F0%9F%8E%AF" />
+</div>
 
 ---
 
 ## 📞 **Connect With Me**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-tech)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArslanTechs)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ArslanTechs)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslantech.dev@gmail.com)
-  
+
+[![Gmail](https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanchkpt@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-A855F7?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923084991001)
+[![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArslanTech-dev)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🌟 "Code is poetry, AI is the future" 🌟
-  
-  ![Wave](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-  ![Status](https://img.shields.io/badge/Status-Active-00FF41?style=flat-square)
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArslanTech-dev/ArslanTech-dev/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArslanTech-dev/ArslanTech-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+
+### 🟣 "Code is poetry, AI is the future" 🟣
+
+![Status](https://img.shields.io/badge/Status-Active-A855F7?style=flat-square)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArslanTech-dev/ArslanTech-dev/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArslanTech-dev/ArslanTech-dev/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #a855f7);">
+</picture>
+
 </div>
 
 ---
